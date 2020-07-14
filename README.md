@@ -8,7 +8,7 @@ Basic python program that fetches buy and sell values of all items sold by Bazaa
 
 ## Getting Started
 
-These instructios will get you a copy of the project up and running on your local machine for development and testing purposes. Simply download the .py file and replace the "[[KEY]]" with your API keys. [[KEY 1]] is your first key and [[KEY 2]] is the second then simply run the py file. 
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. Simply download the .py file and replace the "[[KEY]]" with your API keys. [[KEY 1]] is your first key and [[KEY 2]] is the second then simply run the py file. 
 
 ### Installing
 
