@@ -20,9 +20,9 @@ worksheet.write(0, 5, 'Optimal Bid Price Per 64x')
 row =1
 
 #API key and reserve key for Hypixel API
-key = "8bf21133-6904-405f-9429-d23435442ca7"
-reserve = "f97f26b0-0533-40df-abbf-329ffd35b1af"
-products = requests.get("https://api.hypixel.net/skyblock/bazaar/products?key=8bf21133-6904-405f-9429-d23435442ca7")
+key = "[[KEY]]"
+reserve = "[[KEY]]"
+products = requests.get("https://api.hypixel.net/skyblock/bazaar/products?key=[[KEY]]")
 
 
 newproducts = products.json()
