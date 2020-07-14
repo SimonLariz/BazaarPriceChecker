@@ -3,7 +3,7 @@ Basic python program that fetches buy and sell values of all items sold by Bazaa
 
 ### Prerequisites
 
-- 2 API Keys (/api in-game on 2 different accounts) *2 keys are required as with only one key the requests time out after about 100 items, a second key is needed to continue the request for the remaining ~items.
+- 2 API Keys (/api in-game on 2 different accounts) *2 keys are required as with only one key the requests time out after about 100 items, a second key is needed to continue the request for the remaining ~100 items.
 - Program that can open .xlsx files (excell)
 
 ## Getting Started
