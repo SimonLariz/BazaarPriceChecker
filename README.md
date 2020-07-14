@@ -1,5 +1,5 @@
 # Hypixel Bazaar Price Checker
-Basic python program that fetches buy and sell values of all items sold by the Bazaar in the Hypixel Skyblock minigame. Additionally, the script calculates an optimal bid for the item which will cause the person outbidding you to over pay for the item. The program scrapes all the data from the public hypixel API and exports it to an xlsx file.
+Basic python program that fetches buy and sell values of all items sold by the Bazaar in the Hypixel Skyblock minigame. Additionally, the script calculates an optimal bid for the item which will cause the person outbidding you to over pay for the item. The program requests all the data from the public hypixel API and exports it to an xlsx file.
 
 ### Prerequisites
 
